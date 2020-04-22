@@ -1,0 +1,17 @@
+{
+  "summary": "AOC | <PRO_NAME><><CLIENT_NAME>",
+  "description": "Welcome to the description provided purely by the ingrnious hands of yomajo. Python event description over.",
+  "timeZone": "Europe/Vilnius",
+  "start": {
+    "dateTime": "2020-04-22T15:00:00+03:00"
+  },
+  "end": {
+    "dateTime": "2020-04-22T18:30:00+03:00"
+  },
+  "attendees": {
+    "pro_name": "John LivelyHood",
+    "pro_email": "professional.help@randomdomain.com",
+    "client_name": "Lilly Sickerson",
+    "client_email": "client.example@randomdomain.com"
+  }
+}
